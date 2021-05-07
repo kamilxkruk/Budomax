@@ -94,7 +94,7 @@ nav img{
 }
 
 header{
-  background-image: url("assets/excavator_jumbo.jpg");
+  background-image: url("../assets/excavator_jumbo.jpg");
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
